@@ -20,8 +20,8 @@
 //#define NO_ACTION_ONESHOT
 
 
-#define ENCODERS_PAD_A {D2, D1}
-#define ENCODERS_PAD_B {D3, D0}
+#define ENCODERS_PAD_A {D2, F4}
+#define ENCODERS_PAD_B {D3, F5}
 
 #define WS2812_DI_PIN C6
 #define RGBLED_NUM 12
